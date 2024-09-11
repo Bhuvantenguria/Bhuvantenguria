@@ -20,7 +20,7 @@ src="https://img.shields.io/github/followers/Bhuvantenguria?logo=github&style=fo
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,git,react,html,css,js,nodejs,express,mongodb,eclipse,bootstrap,kali,java,linux,mysql,nextjs,npm,postman,ts,py,redis,redux,vite,yarn,docker,c,vscode,codepen,vercel,sklearn,supabase,stackoverflow,pycharm,pug,babel,bash,postgres,ipfs" />
+    <img src="https://skillicons.dev/icons?i=aws,git,cloud,react,html,css,js,nodejs,express,mongodb,eclipse,bootstrap,kali,java,linux,mysql,nextjs,npm,postman,ts,py,redis,redux,vite,yarn,docker,c,vscode,codepen,vercel,sklearn,supabase,stackoverflow,pycharm,pug,babel,bash,postgres,ipfs" />
   </a>
 </p>
 
